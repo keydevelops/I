@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-RADAR_DOWNLOAD_URL="http://example.com/assets/1.js"
+RADAR_DOWNLOAD_URL="https://raw.githubusercontent.com/keydevelops/I/refs/heads/main/radar.js"
 
 # Colors for output
 RED='\033[0;31m'
